@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-[[CV]](/files/CV_Guangyang Zeng.pdf)
+[[CV]](/files/CV_Guangyang_Zeng.pdf)
 
 I received the B.Eng. degree in automatic from the College of Control Science and Engineering, Zhejiang University, Hangzhou, China, in 2017. Now I am pursing the Ph.D. degree with the College of Control Science and Engineering, Zhejiang University, Hangzhou, China. My research interests include statistical inference, distributed detection, source localization, and multi-sensor fusion.
 
