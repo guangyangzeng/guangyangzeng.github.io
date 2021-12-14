@@ -18,9 +18,9 @@ Education
 
   College of Control Science and Engineering, Zhejiang University, Hangzhou, P.R. China
 
-  Advisor: Peng Cheng
+  Advisor: [Peng Cheng](https://person.zju.edu.cn/cp)
 
-  Co-advisor: Junfeng Wu
+  Co-advisor: [Junfeng Wu](https://mypage.cuhk.edu.cn/academics/junfengwu/)
 
 * B.Eng., (Sep. 2013 - Jun. 2017)
 

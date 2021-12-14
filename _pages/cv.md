@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Projects"
+permalink: /projects/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,51 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Low-complexity Distributed Detection with One-bit Memory Under Neyman-Pearson Criterion
+![Editing a markdown file for a talk](/images/distributed detection.png)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+In this project, we consider a multi-stage distributed detection scenario, where n sensors and a fusion center are deployed to accomplish a binary hypothesis test. At each time stage, local sensors generate binary messages and then upload them to the FC for global detection decision making. We suppose a one-bit memory is available at the FC to store its decision history and focus on developing iterative fusion schemes. We first visit the detection problem of performing the Neyman-Pearson test at each stage and give an optimal algorithm, called the oracle algorithm, to solve it. Noticing the computational inefficiency of the oracle fusion, we then propose a low-complexity alternative, for which the likelihood ratio test threshold is tuned in connection to the fusion decision history compressed in the one-bit memory. The low-complexity algorithm greatly brings down the computational complexity at each stage from O(4^n ) (worst case) to O(n). We show that two algorithms exponentially converge to the same performance with the increase of time stages. In addition, the rates of convergence are proven to be asymptotically identical. The proposed low-complexity algorithm is applied in real experiments of done detection using multiple acoustic sensors. Experiment results show that the one-bit information can effectively improve detection performances.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
