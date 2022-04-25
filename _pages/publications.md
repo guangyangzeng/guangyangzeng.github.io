@@ -13,6 +13,10 @@ redirect_from:
 Feedback in Neyman-Pearson Detection Systems", _The 56th Annual Allerton Conference on Communication,
 Control, and Computing_, Urbana-Champaign, USA, 2018.
 
-[2] **Guangyang Zeng**, Xiaoqiang Ren, and Junfeng Wu, “Low-complexity Distributed Detection with
+[2] **Guangyang Zeng**, Xiaoqiang Ren, and Junfeng Wu*, “Low-complexity Distributed Detection with
 One-bit Memory Under Neyman-Pearson Criterion”, _IEEE Transactions on Control of Network Systems_,
-accepted.
+accepted, DOI: 10.1109/TCNS.2022.3141020.
+
+[2] **Guangyang Zeng**, Biqiang Mu, Jieqiang Wei, Wing Shing Wong, and Junfeng Wu*, “Localizability with Range-Difference
+Measurements: Numerical Computation and Error Bound Analysis”, _IEEE/ACM Transactions on Networking_,
+accepted, DOI: 10.1109/TNET.2022.3162930. [[Matlab Codes]](/files/TDOA_localization.rar)
