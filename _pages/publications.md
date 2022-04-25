@@ -17,6 +17,6 @@ Control, and Computing_, Urbana-Champaign, USA, 2018.
 One-bit Memory Under Neyman-Pearson Criterion”, _IEEE Transactions on Control of Network Systems_,
 accepted, DOI: 10.1109/TCNS.2022.3141020.
 
-[2] **Guangyang Zeng**, Biqiang Mu, Jieqiang Wei, Wing Shing Wong, and Junfeng Wu*, “Localizability with Range-Difference
+[3] **Guangyang Zeng**, Biqiang Mu, Jieqiang Wei, Wing Shing Wong, and Junfeng Wu*, “Localizability with Range-Difference
 Measurements: Numerical Computation and Error Bound Analysis”, _IEEE/ACM Transactions on Networking_,
 accepted, DOI: 10.1109/TNET.2022.3162930. [[Matlab Codes]](/files/TDOA_localization.rar)
