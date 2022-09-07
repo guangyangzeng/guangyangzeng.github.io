@@ -10,7 +10,7 @@ redirect_from:
 
 [[CV]](/files/CV_Guangyang_Zeng.pdf)
 
-I received the B.Eng. degree in automation and the Ph.D. degree in control science and engineering from Zhejiang University, Hangzhou, China, in 2017 and 2022. Now I am a Postdoctoral Researcher (Advisor: [Haizhou Li](https://colips.org/~eleliha/), [Jiahu Qin](https://iat.ustc.edu.cn/iat/x165/20210523/4725.html)) at the School of Data Science, the Chinese University of Hong Kong, Shenzhen, Shenzhen, China. My research interests include statistical inference, state estimation, and wireless sensor networks.
+I received the B.Eng. degree in automation and the Ph.D. degree in control science and engineering from Zhejiang University, Hangzhou, China, in 2017 and 2022. Now I am a Postdoctoral Researcher (Advisor: [Prof. Haizhou Li](https://colips.org/~eleliha/), [Prof. Jiahu Qin](https://iat.ustc.edu.cn/iat/x165/20210523/4725.html)) at the School of Data Science, the Chinese University of Hong Kong, Shenzhen, Shenzhen, China. My research interests include statistical inference, state estimation, and wireless sensor networks.
 
 Education
 ======
@@ -18,9 +18,9 @@ Education
 
   [NeSC Group](http://nesc.zju.edu.cn/#/), College of Control Science and Engineering, Zhejiang University, Hangzhou, P.R. China
 
-  Advisor: [Peng Cheng](https://person.zju.edu.cn/cp)
+  Advisor: [Prof. Peng Cheng](https://person.zju.edu.cn/cp)
 
-  Co-advisor: [Jiming Chen](https://person.zju.edu.cn/jmchen/), [Junfeng Wu](https://mypage.cuhk.edu.cn/academics/junfengwu/)
+  Co-advisor: [Prof. Jiming Chen](https://person.zju.edu.cn/jmchen/), [Prof. Junfeng Wu](https://mypage.cuhk.edu.cn/academics/junfengwu/)
 
   <address>
   Thesis: Distributed Detection and Accurate Localization in Sensor Networks
