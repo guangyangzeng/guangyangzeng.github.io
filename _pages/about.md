@@ -39,5 +39,7 @@ Related links
 1. [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/zh-hans). 
 1. [Zhejiang University](https://www.zju.edu.cn/).
 
-![Editing a markdown file for a talk](/images/Zhejiang_University2.png)
-![Editing a markdown file for a talk](/images/Zhejiang_University.png)
+<p align="left">
+<img src="/images/CUHKSZ.jpg" alt="drawing" width="250"/>
+<img src="/images/Zhejiang_University2.png" alt="drawing" width="305"/>
+</p>
