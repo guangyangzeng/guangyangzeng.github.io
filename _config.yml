@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Guangyang Zeng"
   avatar           : "my_figure.jpg"
-  bio              : "Ph.D. Candidate"
-  location         : "Hangzhou"
+  bio              : "Postdoctoral Researcher"
+  location         : "Shenzhen"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "gyzeng@zju.edu.cn"
+  email            : "zengguangyang@cuhk.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

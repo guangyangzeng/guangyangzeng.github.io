@@ -10,11 +10,11 @@ redirect_from:
 
 [[CV]](/files/CV_Guangyang_Zeng.pdf)
 
-I received the B.Eng. degree in automation and the Ph.D. degree in control science and engineering from Zhejiang University, Hangzhou, China, in 2017 and 2022. Now I am a Postdoctoral Researcher (Advisor: [Haizhou Li](https://colips.org/~eleliha/)) at the School of Data Science, the Chinese University of Hong Kong, Shenzhen, Shenzhen, China. My research interests include statistical inference, state estimation, and wireless sensor networks.
+I received the B.Eng. degree in automation and the Ph.D. degree in control science and engineering from Zhejiang University, Hangzhou, China, in 2017 and 2022. Now I am a Postdoctoral Researcher (Advisor: [Haizhou Li](https://colips.org/~eleliha/), [Jiahu Qin](https://iat.ustc.edu.cn/iat/x165/20210523/4725.html)) at the School of Data Science, the Chinese University of Hong Kong, Shenzhen, Shenzhen, China. My research interests include statistical inference, state estimation, and wireless sensor networks.
 
 Education
 ======
-* Ph.D. Candidate, (Sep. 2017 - Jun. 2022)
+* Ph.D., (Sep. 2017 - Jun. 2022)
 
   [NeSC Group](http://nesc.zju.edu.cn/#/), College of Control Science and Engineering, Zhejiang University, Hangzhou, P.R. China
 
