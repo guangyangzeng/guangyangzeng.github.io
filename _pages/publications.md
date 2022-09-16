@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+## Papers
+
 [1] **Guangyang Zeng**, Junfeng Wu, Xiufang Shi, and Zhiguo Shi, "A Novel Decision Fusion Scheme with
 Feedback in Neyman-Pearson Detection Systems", _The 56th Annual Allerton Conference on Communication,
 Control, and Computing_, Urbana-Champaign, USA, Oct. 2018, pp. 647-653.
@@ -23,4 +25,8 @@ Measurements: Numerical Computation and Error Bound Analysis”, _IEEE/ACM Trans
 ”, _IEEE Transactions on Signal Processing_, DOI: 10.1109/TSP.2022.3198167, to appear.
 
 [5] **Guangyang Zeng**, Shiyu Chen, Biqiang Mu, Guodong Shi, and Junfeng Wu*, “CPnP: Consistent Pose Estimator for Perspective-n-Point Problem with Bias Elimination
-”, _arXiv:2209.05824_, 2022. [[Code]](https://github.com/SLAMLab-CUHKSZ/CPnP-A-Consistent-PnP-Solver)
+”, _arXiv: 2209.05824_, 2022. [[Code]](https://github.com/SLAMLab-CUHKSZ/CPnP-A-Consistent-PnP-Solver)
+
+## Patents
+
+[1] JunfengWu, Jiming Chen, JieqiangWei, and **Guangyang Zeng**, “Localizing a Target Device Based on Measurements from a Measurement Device Array”, US patent, patent number: 11353541.
