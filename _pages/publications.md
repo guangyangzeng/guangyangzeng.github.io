@@ -13,7 +13,7 @@ redirect_from:
 
 [1] **Guangyang Zeng**, Junfeng Wu, Xiufang Shi, and Zhiguo Shi, "A Novel Decision Fusion Scheme with
 Feedback in Neyman-Pearson Detection Systems", **Annual Allerton Conference on Communication,
-Control, and Computing**, Urbana-Champaign, USA, Oct. 2018, pp. 647-653.
+Control, and Computing (Allerton)**, Urbana-Champaign, USA, Oct. 2018, pp. 647-653.
 
 [2] **Guangyang Zeng**, Xiaoqiang Ren, and Junfeng Wu*, “Low-complexity Distributed Detection with
 One-bit Memory Under Neyman-Pearson Criterion”, **IEEE Transactions on Control of Network Systems**, vol. 9, no. 1, pp. 2-13, Mar. 2022.
@@ -25,7 +25,7 @@ Measurements: Numerical Computation and Error Bound Analysis”, **IEEE/ACM Tran
 ”, **IEEE Transactions on Signal Processing**, vol. 70, pp. 5041-5057, Aug. 2022.
 
 [5] **Guangyang Zeng**, Shiyu Chen, Biqiang Mu, Guodong Shi, and Junfeng Wu*, “CPnP: Consistent Pose Estimator for Perspective-n-Point Problem with Bias Elimination
-”, **IEEE International Conference on Robotics and Automation**, 2023, accepted. [[Code]](https://github.com/SLAMLab-CUHKSZ/CPnP-A-Consistent-PnP-Solver)
+”, **IEEE International Conference on Robotics and Automation (ICRA)**, 2023, accepted. [[Code]](https://github.com/SLAMLab-CUHKSZ/CPnP-A-Consistent-PnP-Solver)
 
 ## Patents
 
