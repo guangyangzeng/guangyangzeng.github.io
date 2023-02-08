@@ -27,6 +27,8 @@ Measurements: Numerical Computation and Error Bound Analysis”, **IEEE/ACM Tran
 [5] **Guangyang Zeng**, Shiyu Chen, Biqiang Mu, Guodong Shi, and Junfeng Wu*, “CPnP: Consistent Pose Estimator for Perspective-n-Point Problem with Bias Elimination
 ”, **IEEE International Conference on Robotics and Automation (ICRA)**, 2023, accepted. [[Code]](https://github.com/SLAMLab-CUHKSZ/CPnP-A-Consistent-PnP-Solver)
 
+[6] **Guangyang Zeng**, Biqiang Mu, Ling Shi, Jiming Chen, and Junfeng Wu*, “Consistent and Asymptotically Efficient Localization from Range-Difference Measurements”, arXiv:2302.03311, 2023.
+
 ## Patents
 
 [1] JunfengWu, Jiming Chen, JieqiangWei, and **Guangyang Zeng**, “Localizing a Target Device Based on Measurements from a Measurement Device Array”, US patent, patent number: 11353541.
