@@ -31,4 +31,4 @@ Measurements: Numerical Computation and Error Bound Analysis”, **IEEE/ACM Tran
 
 ## Patents
 
-[1] JunfengWu, Jiming Chen, JieqiangWei, and **Guangyang Zeng**, “Localizing a Target Device Based on Measurements from a Measurement Device Array”, US patent, patent number: 11353541.
+[1] Junfeng Wu, Jiming Chen, Jieqiang Wei, and **Guangyang Zeng**, “Localizing a Target Device Based on Measurements from a Measurement Device Array”, US patent, patent number: 11353541.
