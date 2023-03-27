@@ -38,6 +38,8 @@ Work experiences
 ======
 * Postdoctoral fellow, (Aug. 2022 - present)
 
+  School of Data Science, Chinese University of Hong Kong, Shenzhen, Shenzhen, P.R. China
+
   Advisor: [Prof. Haizhou Li](https://colips.org/~eleliha/), [Prof. Jiahu Qin](https://iat.ustc.edu.cn/iat/x165/20210523/4725.html), [Prof. Junfeng Wu](https://mypage.cuhk.edu.cn/academics/junfengwu/)
 
 Awards
