@@ -10,7 +10,7 @@ redirect_from:
 
 [[CV]](/files/CV_Guangyang_Zeng.pdf)
 
-I received the B.Eng. degree in automation and the Ph.D. degree in control science and engineering from Zhejiang University, Hangzhou, China, in 2017 and 2022. Now I am a Postdoctoral Researcher (Advisor: [Prof. Haizhou Li](https://colips.org/~eleliha/), [Prof. Jiahu Qin](https://iat.ustc.edu.cn/iat/x165/20210523/4725.html), [Prof. Junfeng Wu](https://mypage.cuhk.edu.cn/academics/junfengwu/)) at the School of Data Science, the Chinese University of Hong Kong, Shenzhen, Shenzhen, China. My research interests include statistical inference, state estimation, and wireless sensor networks.
+I received the B.Eng. degree in automation and the Ph.D. degree in control science and engineering from Zhejiang University, Hangzhou, China, in 2017 and 2022. Now I am a Postdoctoral Fellow (Advisor: [Prof. Haizhou Li](https://colips.org/~eleliha/), [Prof. Jiahu Qin](https://iat.ustc.edu.cn/iat/x165/20210523/4725.html), [Prof. Junfeng Wu](https://mypage.cuhk.edu.cn/academics/junfengwu/)) at the School of Data Science, the Chinese University of Hong Kong, Shenzhen, Shenzhen, China. My research interests include statistical inference, state estimation, and wireless sensor networks.
 
 Education
 ======
@@ -33,6 +33,20 @@ Education
   <address>
   Outstanding Graduate
   </address>
+  
+Work experiences
+======
+* Postdoctoral fellow, (Aug. 2022 - present)
+
+Advisor: [Prof. Haizhou Li](https://colips.org/~eleliha/), [Prof. Jiahu Qin](https://iat.ustc.edu.cn/iat/x165/20210523/4725.html), [Prof. Junfeng Wu](https://mypage.cuhk.edu.cn/academics/junfengwu/)
+
+Academic services
+======
+* Reviewer, IEEE Transactions on Industrial Informatics
+* Reviewer, IEEE Transactions on Wireless Communications
+* Reviewer, IEEE Signal Processing Letters
+* Reviewer, International Journal of Communication Systems
+* Reviewer, IEEE International Conference on Robotics and Automation
 
 Related links
 ------
