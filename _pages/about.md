@@ -52,8 +52,7 @@ Academic services
 * Reviewer, IEEE Transactions on Wireless Communications
 * Reviewer, IEEE Robotics and Automation Letters
 * Reviewer, IEEE Signal Processing Letters
-* Reviewer, International Journal of Communication Systems
-* Reviewer, IEEE International Conference on Robotics and Automation
+* Reviewer, IEEE International Conference on Robotics and Automation (ICRA)
 
 Related links
 ------
