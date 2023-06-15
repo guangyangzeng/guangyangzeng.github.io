@@ -48,6 +48,7 @@ Awards
 
 Academic services
 ======
+* Reviewer, IEEE Transactions on Pattern Analysis and Machine Intelligence
 * Reviewer, IEEE Transactions on Industrial Informatics
 * Reviewer, IEEE Transactions on Wireless Communications
 * Reviewer, IEEE Robotics and Automation Letters
