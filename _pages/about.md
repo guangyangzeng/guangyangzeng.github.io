@@ -51,6 +51,7 @@ Academic services
 * Reviewer, IEEE Transactions on Pattern Analysis and Machine Intelligence
 * Reviewer, IEEE Transactions on Industrial Informatics
 * Reviewer, IEEE Transactions on Wireless Communications
+* Reviewer, IEEE Transactions on Vehicular Technology
 * Reviewer, IEEE Robotics and Automation Letters
 * Reviewer, IEEE Signal Processing Letters
 * Reviewer, IEEE International Conference on Robotics and Automation (ICRA)
