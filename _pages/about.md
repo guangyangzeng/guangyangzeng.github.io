@@ -52,6 +52,7 @@ Academic services
 * Reviewer, IEEE Transactions on Robotics
 * Reviewer, IEEE Transactions on Industrial Informatics
 * Reviewer, IEEE Transactions on Wireless Communications
+* Reviewer, IEEE/ASME Transactions on Mechatronics
 * Reviewer, IEEE Transactions on Vehicular Technology
 * Reviewer, IEEE Robotics and Automation Letters
 * Reviewer, IEEE Signal Processing Letters
