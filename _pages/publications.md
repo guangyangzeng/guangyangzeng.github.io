@@ -33,10 +33,20 @@ Control, and Computing (Allerton)**, Urbana-Champaign, USA, Oct. 2018, pp. 647-6
 
 ## Submitted Papers
 
-[1] 
+[1] **Guangyang Zeng**, Qingcheng Zeng, Xinghan Li, Biqiang Mu, Jiming Chen, Ling Shi, and Junfeng Wu, ``Consistent and Asymptotically Statistically-Efficient Solution to Camera Motion Estimation'', 2024, arXiv:2403.01174, submitted to **IEEE Transactions on Pattern Analysis and Machine Intelligence**.
+	
+[2] Xinghan Li, Haoying Li, **Guangyang Zeng**, Qingcheng Zeng, Xiaoqiang Ren, Chao Yang, and Junfeng Wu, ``Efficient Invariant Kalman Filter for Inertial-based Odometry with Large-sample Environmental Measurements'', 2024, arXiv:2402.05003, submitted to **IEEE Transactions on Robotics**.
+	
+[3] Wenliang Sheng, **Guangyang Zeng**, Jingxing Gao, Wen Yang, Junfeng Wu, and Chao Yang, ``A Two-Step Method for Acoustic-n-Point Problem'', 2024, submitted to **IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**.
+	
+[4] **Guangyang Zeng**, Hongxu Zhao, Biqiang Mu, and Junfeng Wu, ``Consistent TOA Localization Considering Sensor Position Uncertainties'', 2024, submitted to **Journal of Signal Processing** (in Chinese).
 
 
 
 ## Patents
 
 [1] Junfeng Wu, Jiming Chen, Jieqiang Wei, and **Guangyang Zeng**, “Localizing a Target Device Based on Measurements from a Measurement Device Array”, US patent, patent number: 11353541.
+
+[2] Miao Li, Xingjian Wang, **Guangyang Zeng**, Zhiguo Shi, and Jiming Chen, ``A Spatial Small Object Detection Method Based on Deep Learning Semantic Feature Separation'', Chinese invention patent, CN116206219A (in Chinese).
+
+[3] Junfeng Wu, Haodong Jiang, and **Guangyang Zeng**, ``A Robot Pose Estimation Method Based on Ultra-wideband Wireless Range Measurement'', Chinese invention patent, CN116953608A (in Chinese).
