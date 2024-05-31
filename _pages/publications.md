@@ -11,7 +11,7 @@ redirect_from:
 
 ## Journal Papers
 
-[J1] **Guangyang Zeng**, Biqiang Mu, Ling Shi, Jiming Chen, and Junfeng Wu*, “Consistent and Asymptotically Efficient Localization from Range-Difference Measurements”, **IEEE Transactions on Information Theory**, Dec. 2023, DOI: 10.1109/TIT.2023.3343347. [[Code]](/files/Asymptotically_optimal_TDOA_localization.zip)
+[J1] **Guangyang Zeng**, Biqiang Mu, Ling Shi, Jiming Chen, and Junfeng Wu*, “Consistent and Asymptotically Efficient Localization from Range-Difference Measurements”, **IEEE Transactions on Information Theory**, vol. 70, no. 4, pp. 3032-3045, Apr. 2022. [[Code]](/files/Asymptotically_optimal_TDOA_localization.zip)
 
 [J2] **Guangyang Zeng**, Biqiang Mu, Jiming Chen, Zhiguo Shi, and Junfeng Wu*, “Global and Asymptotically Efficient Localization From Range Measurements
 ”, **IEEE Transactions on Signal Processing**, vol. 70, pp. 5041-5057, Aug. 2022. [[Code]](/files/Asymptotically_optimal_TOA_localization.zip)
