@@ -22,6 +22,8 @@ Measurements: Numerical Computation and Error Bound Analysis”, **IEEE/ACM Tran
 [J4] **Guangyang Zeng**, Xiaoqiang Ren, and Junfeng Wu*, “Low-complexity Distributed Detection with
 One-bit Memory Under Neyman-Pearson Criterion”, **IEEE Transactions on Control of Network Systems**, vol. 9, no. 1, pp. 2-13, Mar. 2022.
 
+[J5] **Guangyang Zeng***, Hongxu Zhao, Biqiang Mu, and Junfeng Wu, “Consistent TOA Localization Considering Sensor Position Uncertainties”, **Journal of Signal Processing**, accepted (in Chinese).
+
 ## Conference Papers
 
 [C1] **Guangyang Zeng**, Shiyu Chen, Biqiang Mu, Guodong Shi, and Junfeng Wu*, “CPnP: Consistent Pose Estimator for Perspective-n-Point Problem with Bias Elimination
@@ -31,6 +33,8 @@ One-bit Memory Under Neyman-Pearson Criterion”, **IEEE Transactions on Control
 Feedback in Neyman-Pearson Detection Systems", **Annual Allerton Conference on Communication,
 Control, and Computing (Allerton)**, Urbana-Champaign, USA, Oct. 2018, pp. 647-653.
 
+[C3] Yuan Fu, Zheng Zhang, **Guangyang Zeng**, Chun Liu, Junfeng Wu, and Xiaoqiang Ren, “Fast Estimation of Relative Transformation Based on Fusion of Odometry and UWB Ranging Data”, **International Conference on Guidance, Navigation and Control (ICGNC)**, Changsha, China, Aug. 2024.
+
 ## Submitted Papers
 
 [1] **Guangyang Zeng**, Qingcheng Zeng, Xinghan Li, Biqiang Mu, Jiming Chen, Ling Shi, and Junfeng Wu, ``Consistent and Asymptotically Statistically-Efficient Solution to Camera Motion Estimation'', 2024, arXiv:2403.01174, submitted to **IEEE Transactions on Pattern Analysis and Machine Intelligence**.
@@ -39,7 +43,7 @@ Control, and Computing (Allerton)**, Urbana-Champaign, USA, Oct. 2018, pp. 647-6
 	
 [3] Wenliang Sheng, **Guangyang Zeng**, Jingxing Gao, Wen Yang, Junfeng Wu, and Chao Yang, ``A Two-Step Method for Acoustic-n-Point Problem'', 2024, submitted to **IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**.
 	
-[4] **Guangyang Zeng**, Hongxu Zhao, Biqiang Mu, and Junfeng Wu, ``Consistent TOA Localization Considering Sensor Position Uncertainties'', 2024, submitted to **Journal of Signal Processing** (in Chinese).
+[4] Hongxu Zhao, **Guangyang Zeng**, Haodong Jiang, Xiaoqiang Ren, and Junfeng Wu, ``Consistent Rigid Body Localization from Range Measurements with Anchor Position Uncertainty'', 2024, submitted to **IEEE Conference on Decision and Control (CDC)**.
 
 
 
