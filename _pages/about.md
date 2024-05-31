@@ -48,15 +48,17 @@ Awards
 
 Academic services
 ======
-* Reviewer, IEEE Transactions on Pattern Analysis and Machine Intelligence
-* Reviewer, IEEE Transactions on Robotics
-* Reviewer, IEEE Transactions on Industrial Informatics
-* Reviewer, IEEE Transactions on Wireless Communications
-* Reviewer, IEEE/ASME Transactions on Mechatronics
-* Reviewer, IEEE Transactions on Vehicular Technology
-* Reviewer, IEEE Robotics and Automation Letters
-* Reviewer, IEEE Signal Processing Letters
-* Reviewer, IEEE International Conference on Robotics and Automation (ICRA)
+* 2024 IEEE/CIC International Conference on Communications in China (Frontier Applications of Array Signal Processing in Future Wireless Workshop GENERAL CO-CHAIR)
+* IEEE Transactions on Pattern Analysis and Machine Intelligence (Reviewer)
+* IEEE Transactions on Robotics (Reviewer)
+* IEEE Transactions on Industrial Informatics (Reviewer)
+* IEEE Transactions on Wireless Communications (Reviewer)
+* IEEE/ASME Transactions on Mechatronics (Reviewer)
+* IEEE Transactions on Vehicular Technology (Reviewer)
+* Signal Processing (Reviewer)
+* IEEE Robotics and Automation Letters (Reviewer)
+* IEEE Signal Processing Letters (Reviewer)
+* 2023 IEEE International Conference on Robotics and Automation (Reviewer)
 
 Related links
 ------
