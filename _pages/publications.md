@@ -38,12 +38,14 @@ Control, and Computing (Allerton)**, Urbana-Champaign, USA, Oct. 2018, pp. 647-6
 ## Submitted Papers
 
 [1] **Guangyang Zeng**, Qingcheng Zeng, Xinghan Li, Biqiang Mu, Jiming Chen, Ling Shi, and Junfeng Wu, ``Consistent and Asymptotically Statistically-Efficient Solution to Camera Motion Estimation'', 2024, arXiv:2403.01174, submitted to **IEEE Transactions on Pattern Analysis and Machine Intelligence**.
+
+[2] Hongxu Zhao, **Guangyang Zeng***, Wentao Wang, Zheng Zhang, Yuan Fu, Xiaoqiang Ren, Zimin Chen, and Junfeng Wu, ``Bias-Eliminated Asymptotically Efficient Pose Estimation From Range-Difference Measurements'', 2024, submitted to **IEEE Transactions on Signal Processing**.
 	
-[2] Xinghan Li, Haoying Li, **Guangyang Zeng**, Qingcheng Zeng, Xiaoqiang Ren, Chao Yang, and Junfeng Wu, ``Efficient Invariant Kalman Filter for Inertial-based Odometry with Large-sample Environmental Measurements'', 2024, arXiv:2402.05003, submitted to **IEEE Transactions on Robotics**.
+[3] Xinghan Li, Haoying Li, **Guangyang Zeng**, Qingcheng Zeng, Xiaoqiang Ren, Chao Yang, and Junfeng Wu, ``Efficient Invariant Kalman Filter for Inertial-based Odometry with Large-sample Environmental Measurements'', 2024, arXiv:2402.05003, submitted to **IEEE Transactions on Robotics**.
 	
-[3] Wenliang Sheng, **Guangyang Zeng**, Jingxing Gao, Wen Yang, Junfeng Wu, and Chao Yang, ``A Two-Step Method for Acoustic-n-Point Problem'', 2024, submitted to **IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**.
+[4] Wenliang Sheng, **Guangyang Zeng**, Jingxing Gao, Wen Yang, Junfeng Wu, and Chao Yang, ``A Two-Step Method for Acoustic-n-Point Problem'', 2024, submitted to **IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**.
 	
-[4] Hongxu Zhao, **Guangyang Zeng**, Haodong Jiang, Xiaoqiang Ren, and Junfeng Wu, ``Consistent Rigid Body Localization from Range Measurements with Anchor Position Uncertainty'', 2024, submitted to **IEEE Conference on Decision and Control (CDC)**.
+[5] Hongxu Zhao, **Guangyang Zeng**, Haodong Jiang, Xiaoqiang Ren, and Junfeng Wu, ``Consistent Rigid Body Localization from Range Measurements with Anchor Position Uncertainty'', 2024, submitted to **IEEE Conference on Decision and Control (CDC)**.
 
 
 
