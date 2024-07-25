@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Journal Papers
+## Journal Papers (* Corresponding Author)
 
 [J1] **Guangyang Zeng**, Biqiang Mu, Ling Shi, Jiming Chen, and Junfeng Wu*, “Consistent and Asymptotically Efficient Localization from Range-Difference Measurements”, **IEEE Transactions on Information Theory**, vol. 70, no. 4, pp. 3032-3045, Apr. 2024. [[Code]](/files/Asymptotically_optimal_TDOA_localization.zip)
 
@@ -24,30 +24,30 @@ One-bit Memory Under Neyman-Pearson Criterion”, **IEEE Transactions on Control
 
 [J5] **Guangyang Zeng***, Hongxu Zhao, Biqiang Mu, and Junfeng Wu, “Consistent TOA Localization Considering Sensor Position Uncertainties”, **Journal of Signal Processing**, accepted (in Chinese).
 
-## Conference Papers
+## Conference Papers (* Corresponding Author)
 
-[C1] **Guangyang Zeng**, Shiyu Chen, Biqiang Mu, Guodong Shi, and Junfeng Wu*, “CPnP: Consistent Pose Estimator for Perspective-n-Point Problem with Bias Elimination
-”, **IEEE International Conference on Robotics and Automation (ICRA)**, London, UK, May 2023, pp. 1940-1946. [[Code]](https://github.com/SLAMLab-CUHKSZ/CPnP-A-Consistent-PnP-Solver)
-
-[C2] **Guangyang Zeng**, Junfeng Wu, Xiufang Shi, and Zhiguo Shi, "A Novel Decision Fusion Scheme with
-Feedback in Neyman-Pearson Detection Systems", **Annual Allerton Conference on Communication,
-Control, and Computing (Allerton)**, Urbana-Champaign, USA, Oct. 2018, pp. 647-653.
+[C4] Hongxu Zhao, **Guangyang Zeng***, Haodong Jiang, Xiaoqiang Ren, and Junfeng Wu, ``Consistent Rigid Body Localization from Range Measurements with Anchor Position Uncertainty'', **IEEE Conference on Decision and Control (CDC)**, Allianz MiCo, Italy, Dec. 2024.
 
 [C3] Yuan Fu, Zheng Zhang, **Guangyang Zeng**, Chun Liu, Junfeng Wu, and Xiaoqiang Ren, “Fast Estimation of Relative Transformation Based on Fusion of Odometry and UWB Ranging Data”, **International Conference on Guidance, Navigation and Control (ICGNC)**, Changsha, China, Aug. 2024.
 
-## Submitted Papers
+[C2] **Guangyang Zeng**, Shiyu Chen, Biqiang Mu, Guodong Shi, and Junfeng Wu*, “CPnP: Consistent Pose Estimator for Perspective-n-Point Problem with Bias Elimination
+”, **IEEE International Conference on Robotics and Automation (ICRA)**, London, UK, May 2023, pp. 1940-1946. [[Code]](https://github.com/SLAMLab-CUHKSZ/CPnP-A-Consistent-PnP-Solver)
+
+[C1] **Guangyang Zeng**, Junfeng Wu, Xiufang Shi, and Zhiguo Shi, "A Novel Decision Fusion Scheme with
+Feedback in Neyman-Pearson Detection Systems", **Annual Allerton Conference on Communication,
+Control, and Computing (Allerton)**, Urbana-Champaign, USA, Oct. 2018, pp. 647-653.
+
+## Submitted Papers (* Corresponding Author)
 
 [1] **Guangyang Zeng**, Qingcheng Zeng, Xinghan Li, Biqiang Mu, Jiming Chen, Ling Shi, and Junfeng Wu*, ``Consistent and Asymptotically Statistically-Efficient Solution to Camera Motion Estimation'', 2024, arXiv:2403.01174, submitted to **IEEE Transactions on Pattern Analysis and Machine Intelligence**.
 
-[2] Hongxu Zhao, **Guangyang Zeng***, Wentao Wang, Zheng Zhang, Yuan Fu, Xiaoqiang Ren, Zimin Chen, and Junfeng Wu, ``Bias-Eliminated Asymptotically Efficient Pose Estimation From Range-Difference Measurements'', 2024, submitted to **IEEE Transactions on Signal Processing**.
+[2] **Guangyang Zeng**, Biqiang Mu, Qingcheng Zeng, Yuchen Song, Chulin Dai, Guodong Shi, and Junfeng Wu*, ``Optimal Camera-Robot Pose Estimation in Linear Time from Points and Lines'', 2024, arXiv:2407.16151, submitted to **The International Journal of Robotics Research**.
+
+[3] Hongxu Zhao, **Guangyang Zeng***, Wentao Wang, Zheng Zhang, Yuan Fu, Xiaoqiang Ren, Zimin Chen, and Junfeng Wu, ``Bias-Eliminated Asymptotically Efficient Pose Estimation From Range-Difference Measurements'', 2024, submitted to **IEEE Transactions on Signal Processing**.
 
 <!--[3] Xinghan Li, Haoying Li, **Guangyang Zeng**, Qingcheng Zeng, Xiaoqiang Ren, Chao Yang, and Junfeng Wu*, ``Efficient Invariant Kalman Filter for Inertial-based Odometry with Large-sample Environmental Measurements'', 2024, arXiv:2402.05003, submitted to **IEEE Transactions on Robotics**.-->
  
-
-	
-[4] Wenliang Sheng, **Guangyang Zeng**, Jingxing Gao, Wen Yang, Junfeng Wu, and Chao Yang, ``A Two-Step Method for Acoustic-n-Point Problem'', 2024, submitted to **IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**.
-	
-[5] Hongxu Zhao, **Guangyang Zeng**, Haodong Jiang, Xiaoqiang Ren, and Junfeng Wu, ``Consistent Rigid Body Localization from Range Measurements with Anchor Position Uncertainty'', 2024, submitted to **IEEE Conference on Decision and Control (CDC)**.
+<!--[4] Wenliang Sheng, **Guangyang Zeng**, Jingxing Gao, Wen Yang, Junfeng Wu, and Chao Yang, ``A Two-Step Method for Acoustic-n-Point Problem'', 2024, submitted to **IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**.-->
 
 
 
