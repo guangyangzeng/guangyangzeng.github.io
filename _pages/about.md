@@ -48,7 +48,8 @@ Awards
 
 Academic services
 ======
-* 2024 IEEE/CIC International Conference on Communications in China (Frontier Applications of Array Signal Processing in Future Wireless Workshop GENERAL CO-CHAIR)
+* 2024 IEEE/CIC International Conference on Communications in China (Signal Processing for Communications Lecture 3 Session Chair)
+* 2024 IEEE/CIC International Conference on Communications in China (Frontier Applications of Array Signal Processing in Future Wireless Workshop General Co-Chair)
 * IEEE Transactions on Pattern Analysis and Machine Intelligence (Reviewer)
 * IEEE Transactions on Robotics (Reviewer)
 * IEEE Transactions on Industrial Informatics (Reviewer)
