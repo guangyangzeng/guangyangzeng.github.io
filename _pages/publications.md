@@ -22,7 +22,7 @@ Measurements: Numerical Computation and Error Bound Analysis”, **IEEE/ACM Tran
 [J2] **Guangyang Zeng**, Xiaoqiang Ren, and Junfeng Wu*, “Low-complexity Distributed Detection with
 One-bit Memory Under Neyman-Pearson Criterion”, **IEEE Transactions on Control of Network Systems**, vol. 9, no. 1, pp. 2-13, Mar. 2022.
 
-[J1] **Guangyang Zeng***, Hongxu Zhao, Biqiang Mu, and Junfeng Wu, “Consistent TOA Localization Considering Sensor Position Uncertainties”, **Journal of Signal Processing**, accepted (in Chinese).
+[J1] **Guangyang Zeng***, Hongxu Zhao, Biqiang Mu, and Junfeng Wu, “Consistent TOA Localization Considering Sensor Position Uncertainties”, **Journal of Signal Processing**, vol. 40, no. 10, pp. 1791--1801, Oct. 2024 (in Chinese).
 
 ## Conference Papers (* Corresponding Author)
 
@@ -37,11 +37,9 @@ One-bit Memory Under Neyman-Pearson Criterion”, **IEEE Transactions on Control
 Feedback in Neyman-Pearson Detection Systems", **Annual Allerton Conference on Communication,
 Control, and Computing (Allerton)**, Urbana-Champaign, USA, Oct. 2018, pp. 647-653.
 
-## Submitted Papers (* Corresponding Author)
+## Slected Submitted Papers (* Corresponding Author)
 
-[S3] **Guangyang Zeng**, Qingcheng Zeng, Xinghan Li, Biqiang Mu, Jiming Chen, Ling Shi, and Junfeng Wu*, ``Consistent and Asymptotically Statistically-Efficient Solution to Camera Motion Estimation'', 2024, arXiv:2403.01174, submitted to **IEEE Transactions on Pattern Analysis and Machine Intelligence**.
-
-[S2] **Guangyang Zeng**, Biqiang Mu, Qingcheng Zeng, Yuchen Song, Chulin Dai, Guodong Shi, and Junfeng Wu*, ``Optimal Camera-Robot Pose Estimation in Linear Time from Points and Lines'', 2024, arXiv:2407.16151, submitted to **The International Journal of Robotics Research**.
+[S2] **Guangyang Zeng**, Qingcheng Zeng, Xinghan Li, Biqiang Mu, Jiming Chen, Ling Shi, and Junfeng Wu*, ``Consistent and Asymptotically Statistically-Efficient Solution to Camera Motion Estimation'', 2024, arXiv:2403.01174, submitted to **IEEE Transactions on Pattern Analysis and Machine Intelligence**.
 
 [S1] Hongxu Zhao, **Guangyang Zeng***, Wentao Wang, Zheng Zhang, Yuan Fu, Xiaoqiang Ren, Zimin Chen, and Junfeng Wu, ``Bias-Eliminated Asymptotically Efficient Pose Estimation From Range-Difference Measurements'', 2024, submitted to **IEEE Transactions on Signal Processing**.
 
