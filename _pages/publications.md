@@ -11,6 +11,8 @@ redirect_from:
 
 ## Journal Papers (* Corresponding Author)
 
+[J6] Wenliang Sheng, Hongxu Zhao, Lingpeng Chen, **Guangyang Zeng***, Yunling Shao, Yuze Hong, Chao Yang*, Ziyang Hong, and Junfeng Wu, “BESTAnP: Bi-Step Efficient and Statistically Optimal Estimator for Acoustic-n-Point Problem”, **IEEE Robotics and Automation Letters**, 2025, DOI: 10.1109/LRA.2025.3558451. 
+
 [J5] **Guangyang Zeng**, Biqiang Mu, Ling Shi, Jiming Chen, and Junfeng Wu*, “Consistent and Asymptotically Efficient Localization from Range-Difference Measurements”, **IEEE Transactions on Information Theory**, vol. 70, no. 4, pp. 3032-3045, Apr. 2024. [[Code]](/files/Asymptotically_optimal_TDOA_localization.zip)
 
 [J4] **Guangyang Zeng**, Biqiang Mu, Jiming Chen, Zhiguo Shi, and Junfeng Wu*, “Global and Asymptotically Efficient Localization From Range Measurements
