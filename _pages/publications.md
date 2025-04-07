@@ -41,9 +41,11 @@ Control, and Computing (Allerton)**, Urbana-Champaign, USA, Oct. 2018, pp. 647-6
 
 ## Slected Submitted Papers (* Corresponding Author)
 
-[S2] **Guangyang Zeng**, Qingcheng Zeng, Xinghan Li, Biqiang Mu, Jiming Chen, Ling Shi, and Junfeng Wu*, ``Consistent and Asymptotically Statistically-Efficient Solution to Camera Motion Estimation'', 2024, arXiv:2403.01174, submitted to **IEEE Transactions on Pattern Analysis and Machine Intelligence**.
+[S3] **Guangyang Zeng**, Qingcheng Zeng, Xinghan Li, Biqiang Mu, Jiming Chen, Ling Shi, and Junfeng Wu*, ``Consistent and Asymptotically Statistically-Efficient Solution to Camera Motion Estimation'', 2024, arXiv:2403.01174, submitted to **IEEE Transactions on Pattern Analysis and Machine Intelligence**.
 
-[S1] Hongxu Zhao, **Guangyang Zeng***, Wentao Wang, Zheng Zhang, Yuan Fu, Xiaoqiang Ren, Zimin Chen, and Junfeng Wu, ``Bias-Eliminated Asymptotically Efficient Pose Estimation From Range-Difference Measurements'', 2024, submitted to **IEEE Transactions on Signal Processing**.
+[S2] Hongxu Zhao, **Guangyang Zeng***, Wentao Wang, Zheng Zhang, Yuan Fu, Xiaoqiang Ren, Zimin Chen, and Junfeng Wu, ``Bias-Eliminated Asymptotically Efficient Pose Estimation From Range-Difference Measurements'', 2024, submitted to **IEEE Transactions on Signal Processing**.
+
+[S1] Shenghua Hu, **Guangyang Zeng**, Wenchao Xue, Haitao Fang, and Biqiang Mu*, ``Globally Consistent and Asymptotically Efficient Localization Using Bearing-Only Measurements'', 2024, submitted to **IEEE Transactions on Information Theory**. 
 
 <!--[3] Xinghan Li, Haoying Li, **Guangyang Zeng**, Qingcheng Zeng, Xiaoqiang Ren, Chao Yang, and Junfeng Wu*, ``Efficient Invariant Kalman Filter for Inertial-based Odometry with Large-sample Environmental Measurements'', 2024, arXiv:2402.05003, submitted to **IEEE Transactions on Robotics**.-->
  
