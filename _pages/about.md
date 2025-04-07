@@ -19,7 +19,7 @@ Education
 
   Advisor: [Prof. Peng Cheng](https://person.zju.edu.cn/cp)
 
-  Co-advisor: [Prof. Jiming Chen](https://person.zju.edu.cn/jmchen/), [Prof. Junfeng Wu](https://mypage.cuhk.edu.cn/academics/junfengwu/)
+  Co-advisor: [Prof. Jiming Chen](https://person.zju.edu.cn/jmchen/), [Prof. Junfeng Wu](https://lias-cuhksz.github.io/group/junfeng-wu)
 
   <address>
   Thesis: Distributed Detection and Accurate Localization in Sensor Networks
@@ -39,7 +39,7 @@ Work experiences
 
   School of Data Science, Chinese University of Hong Kong, Shenzhen, Shenzhen, P.R. China
 
-  Advisor: [Prof. Haizhou Li](https://colips.org/~eleliha/), [Prof. Junfeng Wu](https://mypage.cuhk.edu.cn/academics/junfengwu/)
+  Advisor: [Prof. Haizhou Li](https://colips.org/~eleliha/), [Prof. Junfeng Wu](https://lias-cuhksz.github.io/group/junfeng-wu)
 
 Awards
 ======
