@@ -43,7 +43,7 @@ Control, and Computing (Allerton)**, Urbana-Champaign, USA, Oct. 2018, pp. 647-6
 
 [S4] **Guangyang Zeng**, Yuan Shen, Ziyang Hong, Yuze Hong, Viorela Ila, Guodong Shi, and Junfeng Wu* ``Bias-Eliminated PnP for Stereo Visual Odometry: Provably Consistent and Large-Scale Localization'', 2025, arXiv:2504.17410, submitted to **IEEE Robotics and Automation Letters**.
 
-[S3] **Guangyang Zeng**, Qingcheng Zeng, Xinghan Li, Biqiang Mu, Jiming Chen, Ling Shi, and Junfeng Wu*, ``Consistent and Asymptotically Statistically-Efficient Solution to Camera Motion Estimation'', 2024, arXiv:2403.01174, submitted to **IEEE Transactions on Pattern Analysis and Machine Intelligence**.
+[S3] **Guangyang Zeng**, Qingcheng Zeng, Xinghan Li, Biqiang Mu, Jiming Chen, Ling Shi, and Junfeng Wu*, ``Consistent and Asymptotically Statistically-Efficient Solution to Camera Motion Estimation'', 2024, arXiv:2403.01174, submitted to **IEEE Transactions on Pattern Analysis and Machine Intelligence**. [[Code]](https://github.com/LIAS-CUHKSZ/Epipolar_evaluation)
 
 [S2] Hongxu Zhao, **Guangyang Zeng***, Wentao Wang, Zheng Zhang, Yuan Fu, Xiaoqiang Ren, Zimin Chen, and Junfeng Wu, ``Bias-Eliminated Asymptotically Efficient Pose Estimation From Range-Difference Measurements'', 2024, submitted to **IEEE Transactions on Signal Processing**.
 
