@@ -24,7 +24,7 @@ Measurements: Numerical Computation and Error Bound Analysis”, **IEEE/ACM Tran
 [J2] **Guangyang Zeng**, Xiaoqiang Ren, and Junfeng Wu*, “Low-complexity Distributed Detection with
 One-bit Memory Under Neyman-Pearson Criterion”, **IEEE Transactions on Control of Network Systems**, vol. 9, no. 1, pp. 2-13, Mar. 2022.
 
-[J1] **Guangyang Zeng***, Hongxu Zhao, Biqiang Mu, and Junfeng Wu, “Consistent TOA Localization Considering Sensor Position Uncertainties”, **Journal of Signal Processing**, vol. 40, no. 10, pp. 1791--1801, Oct. 2024 (in Chinese).
+[J1] **Guangyang Zeng**\*, Hongxu Zhao, Biqiang Mu, and Junfeng Wu, “Consistent TOA Localization Considering Sensor Position Uncertainties”, **Journal of Signal Processing**, vol. 40, no. 10, pp. 1791--1801, Oct. 2024 (in Chinese).
 
 ## Conference Papers (* Corresponding Author)
 
