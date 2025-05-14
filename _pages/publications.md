@@ -28,11 +28,11 @@ One-bit Memory Under Neyman-Pearson Criterion”, **IEEE Transactions on Control
 
 ## Conference Papers (* Corresponding Author)
 
-[C4] Hongxu Zhao, **Guangyang Zeng***, Haodong Jiang, Xiaoqiang Ren, and Junfeng Wu, ``Consistent Rigid Body Localization from Range Measurements with Anchor Position Uncertainty'', **IEEE Conference on Decision and Control (CDC)**, Allianz MiCo, Italy, Dec. 2024.
+[C4] Hongxu Zhao, **Guangyang Zeng**, Haodong Jiang, Xiaoqiang Ren, and Junfeng Wu, ``Consistent Rigid Body Localization from Range Measurements with Anchor Position Uncertainty'', **IEEE Conference on Decision and Control (CDC)**, Allianz MiCo, Italy, Dec. 2024.
 
 [C3] Yuan Fu, Zheng Zhang, **Guangyang Zeng**, Chun Liu, Junfeng Wu, and Xiaoqiang Ren, “Fast Estimation of Relative Transformation Based on Fusion of Odometry and UWB Ranging Data”, **International Conference on Guidance, Navigation and Control (ICGNC)**, Changsha, China, Aug. 2024.
 
-[C2] **Guangyang Zeng**, Shiyu Chen, Biqiang Mu, Guodong Shi, and Junfeng Wu*, “CPnP: Consistent Pose Estimator for Perspective-n-Point Problem with Bias Elimination
+[C2] **Guangyang Zeng**, Shiyu Chen, Biqiang Mu, Guodong Shi, and Junfeng Wu, “CPnP: Consistent Pose Estimator for Perspective-n-Point Problem with Bias Elimination
 ”, **IEEE International Conference on Robotics and Automation (ICRA)**, London, UK, May 2023, pp. 1940-1946. [[Code]](https://github.com/SLAMLab-CUHKSZ/CPnP-A-Consistent-PnP-Solver)
 
 [C1] **Guangyang Zeng**, Junfeng Wu, Xiufang Shi, and Zhiguo Shi, "A Novel Decision Fusion Scheme with
@@ -45,7 +45,7 @@ Control, and Computing (Allerton)**, Urbana-Champaign, USA, Oct. 2018, pp. 647-6
 
 [S3] **Guangyang Zeng**, Qingcheng Zeng, Xinghan Li, Biqiang Mu, Jiming Chen, Ling Shi, and Junfeng Wu*, ``Consistent and Asymptotically Statistically-Efficient Solution to Camera Motion Estimation'', 2024, arXiv:2403.01174, submitted to **IEEE Transactions on Pattern Analysis and Machine Intelligence**. [[Code]](https://github.com/LIAS-CUHKSZ/Epipolar_evaluation)
 
-[S2] Hongxu Zhao, **Guangyang Zeng***, Wentao Wang, Zheng Zhang, Yuan Fu, Xiaoqiang Ren, Zimin Chen, and Junfeng Wu, ``Bias-Eliminated Asymptotically Efficient Pose Estimation From Range-Difference Measurements'', 2024, submitted to **IEEE Transactions on Signal Processing**.
+[S2] Hongxu Zhao, **Guangyang Zeng**\*, Wentao Wang, Zheng Zhang, Yuan Fu, Xiaoqiang Ren, Zimin Chen, and Junfeng Wu, ``Bias-Eliminated Asymptotically Efficient Pose Estimation From Range-Difference Measurements'', 2024, submitted to **IEEE Transactions on Signal Processing**.
 
 [S1] Shenghua Hu, **Guangyang Zeng**, Wenchao Xue, Haitao Fang, and Biqiang Mu*, ``Globally Consistent and Asymptotically Efficient Localization Using Bearing-Only Measurements'', 2024, submitted to **IEEE Transactions on Information Theory**. 
 
