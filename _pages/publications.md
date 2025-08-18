@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-## Journal Papers (* Corresponding Author)
+## Journal Papers (* Corresponding author, † Equally contributed)
+
+[J7] **Guangyang Zeng**†, Qingcheng Zeng†, Xinghan Li, Biqiang Mu, Jiming Chen, Ling Shi, and Junfeng Wu*, ``Consistent and Optimal Solution to Camera Motion Estimation'', **IEEE Transactions on Pattern Analysis and Machine Intelligence**, accepted. [[Code]](https://github.com/LIAS-CUHKSZ/Epipolar_evaluation)
 
 [J6] Wenliang Sheng, Hongxu Zhao, Lingpeng Chen, **Guangyang Zeng**\*, Yunling Shao, Yuze Hong, Chao Yang*, Ziyang Hong, and Junfeng Wu, “BESTAnP: Bi-Step Efficient and Statistically Optimal Estimator for Acoustic-n-Point Problem”, **IEEE Robotics and Automation Letters**, vol. 10, no. 6, pp. 5313-5320, Apr. 2025. [[Code]](https://github.com/LIAS-CUHKSZ/BESTAnP)
 
@@ -26,28 +28,26 @@ One-bit Memory Under Neyman-Pearson Criterion”, **IEEE Transactions on Control
 
 [J1] **Guangyang Zeng**\*, Hongxu Zhao, Biqiang Mu, and Junfeng Wu, “Consistent TOA Localization Considering Sensor Position Uncertainties”, **Journal of Signal Processing**, vol. 40, no. 10, pp. 1791-1801, Oct. 2024 (in Chinese).
 
-## Conference Papers (* Corresponding Author)
+## Conference Papers (* Corresponding author, † Equally contributed)
 
-[C4] Hongxu Zhao, **Guangyang Zeng**, Haodong Jiang, Xiaoqiang Ren, and Junfeng Wu, ``Consistent Rigid Body Localization from Range Measurements with Anchor Position Uncertainty'', **IEEE Conference on Decision and Control (CDC)**, Allianz MiCo, Italy, Dec. 2024.
+[C4] Hongxu Zhao, **Guangyang Zeng**\*, Haodong Jiang, Xiaoqiang Ren, and Junfeng Wu, ``Consistent Rigid Body Localization from Range Measurements with Anchor Position Uncertainty'', **IEEE Conference on Decision and Control (CDC)**, Allianz MiCo, Italy, Dec. 2024.
 
-[C3] Yuan Fu, Zheng Zhang, **Guangyang Zeng**, Chun Liu, Junfeng Wu, and Xiaoqiang Ren, “Fast Estimation of Relative Transformation Based on Fusion of Odometry and UWB Ranging Data”, **International Conference on Guidance, Navigation and Control (ICGNC)**, Changsha, China, Aug. 2024.
+[C3] Yuan Fu, Zheng Zhang, **Guangyang Zeng**, Chun Liu, Junfeng Wu, and Xiaoqiang Ren*, “Fast Estimation of Relative Transformation Based on Fusion of Odometry and UWB Ranging Data”, **International Conference on Guidance, Navigation and Control (ICGNC)**, Changsha, China, Aug. 2024.
 
-[C2] **Guangyang Zeng**, Shiyu Chen, Biqiang Mu, Guodong Shi, and Junfeng Wu, “CPnP: Consistent Pose Estimator for Perspective-n-Point Problem with Bias Elimination
+[C2] **Guangyang Zeng**, Shiyu Chen, Biqiang Mu, Guodong Shi, and Junfeng Wu*, “CPnP: Consistent Pose Estimator for Perspective-n-Point Problem with Bias Elimination
 ”, **IEEE International Conference on Robotics and Automation (ICRA)**, London, UK, May 2023, pp. 1940-1946. [[Code]](https://github.com/SLAMLab-CUHKSZ/CPnP-A-Consistent-PnP-Solver)
 
-[C1] **Guangyang Zeng**, Junfeng Wu, Xiufang Shi, and Zhiguo Shi, "A Novel Decision Fusion Scheme with
+[C1] **Guangyang Zeng**, Junfeng Wu*, Xiufang Shi, and Zhiguo Shi, "A Novel Decision Fusion Scheme with
 Feedback in Neyman-Pearson Detection Systems", **Annual Allerton Conference on Communication,
 Control, and Computing (Allerton)**, Urbana-Champaign, USA, Oct. 2018, pp. 647-653.
 
-## Slected Submitted Papers (* Corresponding Author)
+## Slected Submitted Papers (* Corresponding author, † Equally contributed)
 
-[S4] **Guangyang Zeng**, Yuan Shen, Ziyang Hong, Yuze Hong, Viorela Ila, Guodong Shi, and Junfeng Wu* ``Bias-Eliminated PnP for Stereo Visual Odometry: Provably Consistent and Large-Scale Localization'', 2025, arXiv:2504.17410, submitted to **IEEE Robotics and Automation Letters**.
+[S3] **Guangyang Zeng**†, Yuan Shen†, Ziyang Hong, Yuze Hong, Viorela Ila, Guodong Shi, and Junfeng Wu* ``Bias-Eliminated PnP for Stereo Visual Odometry: Provably Consistent and Large-Scale Localization'', 2025, arXiv:2504.17410, submitted to **IEEE Robotics and Automation Letters**.
 
-[S3] **Guangyang Zeng**, Qingcheng Zeng, Xinghan Li, Biqiang Mu, Jiming Chen, Ling Shi, and Junfeng Wu*, ``Consistent and Asymptotically Statistically-Efficient Solution to Camera Motion Estimation'', 2024, arXiv:2403.01174, submitted to **IEEE Transactions on Pattern Analysis and Machine Intelligence**. [[Code]](https://github.com/LIAS-CUHKSZ/Epipolar_evaluation)
+[S2] Hongxu Zhao, **Guangyang Zeng**\*, Wentao Wang, Zheng Zhang, Yuan Fu, Xiaoqiang Ren, Zimin Chen, and Junfeng Wu, ``Bias-Eliminated Asymptotically Efficient Pose Estimation From Range-Difference Measurements'', 2025, submitted to **IEEE Transactions on Signal Processing**.
 
-[S2] Hongxu Zhao, **Guangyang Zeng**\*, Wentao Wang, Zheng Zhang, Yuan Fu, Xiaoqiang Ren, Zimin Chen, and Junfeng Wu, ``Bias-Eliminated Asymptotically Efficient Pose Estimation From Range-Difference Measurements'', 2024, submitted to **IEEE Transactions on Signal Processing**.
-
-[S1] Shenghua Hu, **Guangyang Zeng**, Wenchao Xue, Haitao Fang, and Biqiang Mu*, ``Globally Consistent and Asymptotically Efficient Localization Using Bearing-Only Measurements'', 2024, submitted to **IEEE Transactions on Information Theory**. 
+[S1] Shenghua Hu, **Guangyang Zeng**, Wenchao Xue, Haitao Fang, Junfeng Wu, and Biqiang Mu*, ``RSS-Based Localization: Ensuring Consistency and Asymptotic Efficiency'', 2025, arXiv:2505.13070, submitted to **IEEE Transactions on Signal Processing**. 
 
 <!--[3] Xinghan Li, Haoying Li, **Guangyang Zeng**, Qingcheng Zeng, Xiaoqiang Ren, Chao Yang, and Junfeng Wu*, ``Efficient Invariant Kalman Filter for Inertial-based Odometry with Large-sample Environmental Measurements'', 2024, arXiv:2402.05003, submitted to **IEEE Transactions on Robotics**.-->
  
