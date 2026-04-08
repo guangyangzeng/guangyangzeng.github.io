@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I received the B.Eng. degree in automation and the Ph.D. degree in control science and engineering from Zhejiang University, Hangzhou, China, in 2017 and 2022. Now I am a Postdoctoral Fellow at the School of Data Science, the Chinese University of Hong Kong, Shenzhen, Shenzhen, China. My research interests include statistical inference, state estimation, and wireless sensor networks.
+I received the B.Eng. degree in automation and the Ph.D. degree in control science and engineering from Zhejiang University, Hangzhou, China, in 2017 and 2022. I then worked as a Postdoctoral Fellow at the School of Data Science, the Chinese University of Hong Kong, Shenzhen, Shenzhen, China. I am currently a tenure-track Associate Professor with the School of Intelligence Science and Engineering, Harbin Institute of Technology, Shenzhen, Shenzhen, China. My research interests include robot perception and localization, underwater robotics, and statistical inference.
 
 Education
 ======
@@ -35,7 +35,11 @@ Education
   
 Work experiences
 ======
-* Postdoctoral fellow, (Aug. 2022 - present)
+* Tenure-track associate professor, (Mar. 2026 - present)
+
+  School of Intelligence Science and Engineering, Harbin Institute of Technology, Shenzhen, Shenzhen, P.R. China
+  
+* Postdoctoral fellow, (Aug. 2022 - Mar. 2026)
 
   School of Data Science, Chinese University of Hong Kong, Shenzhen, Shenzhen, P.R. China
 
@@ -47,23 +51,23 @@ Awards
 
 Academic services
 ======
-* 2024 IEEE/CIC International Conference on Communications in China (Signal Processing for Communications Lecture 3 Session Chair)
-* 2024 IEEE/CIC International Conference on Communications in China (Frontier Applications of Array Signal Processing in Future Wireless Workshop General Co-Chair)
+* 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (Committee Member, Marine Science and Marine Robotics Workshop)
+* 2024 IEEE/CIC International Conference on Communications in China (Session Chair, Signal Processing for Communications Lecture 3)
+* 2024 IEEE/CIC International Conference on Communications in China (General Co-Chair, Frontier Applications of Array Signal Processing in Future Wireless Workshop)
 * IEEE Transactions on Pattern Analysis and Machine Intelligence (Reviewer)
 * IEEE Transactions on Robotics (Reviewer)
+* International Journal of Computer Vision (Reviewer)
 * IEEE Transactions on Industrial Informatics (Reviewer)
 * IEEE Transactions on Wireless Communications (Reviewer)
 * IEEE/ASME Transactions on Mechatronics (Reviewer)
 * IEEE Transactions on Vehicular Technology (Reviewer)
-* Signal Processing (Reviewer)
 * IEEE Robotics and Automation Letters (Reviewer)
-* IEEE Signal Processing Letters (Reviewer)
-* 2023 IEEE International Conference on Robotics and Automation (Reviewer)
 
 Related links
 ------
-1. [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/zh-hans). 
-1. [Zhejiang University](https://www.zju.edu.cn/).
+1. [Harbin Institute of Technology, Shenzhen](https://www.hitsz.edu.cn/). 
+2. [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/zh-hans). 
+3. [Zhejiang University](https://www.zju.edu.cn/).
 
 <p align="left">
 <img src="/images/CUHKSZ.jpg" alt="drawing" width="250"/>
