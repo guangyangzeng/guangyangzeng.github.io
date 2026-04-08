@@ -11,7 +11,7 @@ redirect_from:
 
 I received the B.Eng. degree in automation and the Ph.D. degree in control science and engineering from Zhejiang University, Hangzhou, China, in 2017 and 2022. I then worked as a Postdoctoral Fellow at the School of Data Science, the Chinese University of Hong Kong, Shenzhen, Shenzhen, China. I am currently a tenure-track Associate Professor with the School of Intelligence Science and Engineering, Harbin Institute of Technology, Shenzhen, Shenzhen, China. My research interests include robot perception and localization, underwater robotics, and statistical inference.
 
-Chinese homepage: https://homepage.hit.edu.cn/zengguangyang
+[Chinese homepage](https://homepage.hit.edu.cn/zengguangyang)
 
 Education
 ======
