@@ -34,6 +34,8 @@ One-bit Memory Under Neyman-Pearson Criterion”, **IEEE Transactions on Control
 
 ## Conference Papers (* Corresponding author, † Equally contributed)
 
+[C6] **Guangyang Zeng**, Yulong Gao, Yuan Shen, Lingpeng Chen, Haoying Li, Guodong Shi, and Junfeng Wu, ``Provably Guaranteed Polytopic Uncertainty Quantification for SLAM'', **Robotics: Science and Systems (RSS)**, accepted.
+
 [C5] Yuan Shen, Yuze Hong, **Guangyang Zeng**\*, Tengfei Zhang, Pui Yi Chui, Ziyang Hong, and Junfeng Wu, ``GeVI-SLAM: Gravity-Enhanced Stereo Visua Inertial SLAM for Underwater Robots'', **IEEE International Conference on Robotics and Automation (ICRA)**, accepted.
 
 [C4] Hongxu Zhao, **Guangyang Zeng**, Haodong Jiang, Xiaoqiang Ren, and Junfeng Wu, ``Consistent Rigid Body Localization from Range Measurements with Anchor Position Uncertainty'', **IEEE Conference on Decision and Control (CDC)**, Allianz MiCo, Italy, Dec. 2024.
